@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.95770224.css",
-    "main.js": "/static/js/main.8d49e1b0.js",
+    "main.css": "/static/css/main.46960687.css",
+    "main.js": "/static/js/main.87bd6db4.js",
     "static/js/787.16d1e817.chunk.js": "/static/js/787.16d1e817.chunk.js",
+    "static/media/Deepak-Soni-Resume.pdf": "/static/media/Deepak-Soni-Resume.efb07e8ccf48ab90c7a6.pdf",
+    "static/media/about.png": "/static/media/about.2e3067f7c972c97f36db.png",
     "index.html": "/index.html",
-    "main.95770224.css.map": "/static/css/main.95770224.css.map",
-    "main.8d49e1b0.js.map": "/static/js/main.8d49e1b0.js.map",
+    "main.46960687.css.map": "/static/css/main.46960687.css.map",
+    "main.87bd6db4.js.map": "/static/js/main.87bd6db4.js.map",
     "787.16d1e817.chunk.js.map": "/static/js/787.16d1e817.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.95770224.css",
-    "static/js/main.8d49e1b0.js"
+    "static/css/main.46960687.css",
+    "static/js/main.87bd6db4.js"
   ]
 }
