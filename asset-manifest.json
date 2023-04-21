@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.843a81ce.css",
-    "main.js": "/static/js/main.49b64a52.js",
+    "main.css": "/static/css/main.de68ef5c.css",
+    "main.js": "/static/js/main.d03eb0ed.js",
     "static/js/787.16d1e817.chunk.js": "/static/js/787.16d1e817.chunk.js",
     "static/media/work-2.png": "/static/media/work-2.de5e0a6265632a60f462.png",
     "static/media/work-3.png": "/static/media/work-3.4688a7591480a513f4aa.png",
@@ -17,10 +17,10 @@
     "static/media/expPink.svg": "/static/media/expPink.ac1de145943281e48101635d936e07a1.svg",
     "static/media/expPurple.svg": "/static/media/expPurple.c054e7936866e05307edbf7a6d27ddde.svg",
     "static/media/expYellow.svg": "/static/media/expYellow.cff6e7009ac8cce0c8806daff98c4c87.svg",
-    "static/media/Deepak-Soni-Resume.pdf": "/static/media/Deepak-Soni-Resume.efb07e8ccf48ab90c7a6.pdf",
-    "static/media/about.png": "/static/media/about.2e3067f7c972c97f36db.png",
     "static/media/blog-2.svg": "/static/media/blog-2.dc7cceb2191feb97d5cdc615755f5b60.svg",
     "static/media/blog-1.svg": "/static/media/blog-1.f765e1b0fff9fb909ed6db7a682ac4e2.svg",
+    "static/media/about.png": "/static/media/about.12106d1e983f36989f65.png",
+    "static/media/Deepak-Soni-Resume.pdf": "/static/media/Deepak-Soni-Resume.b52b2d1b2934b49e22e6.pdf",
     "static/media/blog-3.svg": "/static/media/blog-3.6746a86faea2f6e46ed596388bc91e1c.svg",
     "static/media/testimonial3.png": "/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
     "static/media/contactsBlack.svg": "/static/media/contactsBlack.a7066a036cda6c3b92c5f544021b9530.svg",
@@ -61,12 +61,12 @@
     "static/media/eduImgBlack.svg": "/static/media/eduImgBlack.8ee2e691e27f81b89b1aa08acc85cfe6.svg",
     "static/media/eduImgWhite.svg": "/static/media/eduImgWhite.433f9250502a8b9b87ba754528481d86.svg",
     "index.html": "/index.html",
-    "main.843a81ce.css.map": "/static/css/main.843a81ce.css.map",
-    "main.49b64a52.js.map": "/static/js/main.49b64a52.js.map",
+    "main.de68ef5c.css.map": "/static/css/main.de68ef5c.css.map",
+    "main.d03eb0ed.js.map": "/static/js/main.d03eb0ed.js.map",
     "787.16d1e817.chunk.js.map": "/static/js/787.16d1e817.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.843a81ce.css",
-    "static/js/main.49b64a52.js"
+    "static/css/main.de68ef5c.css",
+    "static/js/main.d03eb0ed.js"
   ]
 }
